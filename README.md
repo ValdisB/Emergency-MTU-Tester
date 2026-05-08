@@ -1,6 +1,6 @@
 # Emergency MTU Tester
 Version: 1.0.0  
-Author: Valdis  
+Author: Valdis B.  
 License: Freeware / Portable  
 Platform: Windows 10 / Windows 11 (PowerShell 5+ / PowerShell 7+)
 
