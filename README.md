@@ -50,10 +50,9 @@ It is intended strictly for temporary troubleshooting when the network is severe
 5. Press ENTER to exit
 
 ## Changelog
+### 1.0.0
+- Initial release
 
 ## Support
 If you find this project useful, support it here:
 https://paypal.me/ValdisBerzinsh
-
-### 1.0.0
-- Initial release
