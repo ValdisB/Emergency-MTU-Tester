@@ -44,11 +44,16 @@ It is intended strictly for temporary troubleshooting when the network is severe
 ## Usage
 1. Save as `Emergency-MTU-Tester.ps1`  
    or run directly from clipboard  
-2. Start PowerShell **as Administrator**  
+2. Start PowerShell **as Administrator** 
 3. Run the script  
 4. Follow on‑screen output  
 5. Press ENTER to exit
 
 ## Changelog
+
+## Support
+If you find this project useful, support it here:
+https://paypal.me/ValdisBerzinsh
+
 ### 1.0.0
 - Initial release
